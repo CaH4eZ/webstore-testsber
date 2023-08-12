@@ -47,7 +47,7 @@
     </build>
 
     <properties>
-        <com.h2database.h2.version>1.4.187</com.h2database.h2.version>
+        <com.h2database.h2.version>2.2.220</com.h2database.h2.version>
         <mysql.mysql-connector-java.version>8.0.28</mysql.mysql-connector-java.version>
         <org.hibernate.hibernate-core.version>5.2.12.Final</org.hibernate.hibernate-core.version>
     </properties>
